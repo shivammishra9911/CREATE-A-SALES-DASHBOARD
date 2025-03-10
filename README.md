@@ -132,3 +132,6 @@ I concluded the following from my analysis:
 This Super Store Sales Analysis gives a complete insight into revenue patterns, customer trends, and operating efficiencies. Based on these findings, companies can make informed decisions to boost sales, enhance customer satisfaction, and streamline supply chain operations.
 
 ![Image](https://github.com/user-attachments/assets/781bc029-3df5-4c68-b2b8-7dfc0f5112bf)
+
+![Image](https://github.com/user-attachments/assets/5540542a-7d66-4500-9962-3821afabe513)
+
