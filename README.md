@@ -138,3 +138,5 @@ This Super Store Sales Analysis gives a complete insight into revenue patterns, 
 ![Image](https://github.com/user-attachments/assets/c5504290-37a8-4954-92aa-7282306dcad8)
 
 ![Image](https://github.com/user-attachments/assets/6bb5f098-564e-4998-9bd9-caa51d0e6222)
+
+![Image](https://github.com/user-attachments/assets/6e72c4ce-0039-44cc-9661-83f7b627f477)
